@@ -1,24 +1,27 @@
-nav,.rightbox{
+nav{
  position: absolute;
     right: 0px;
     
 }
-.leftbox{
+.leftBox{
 position: absolute;
     left: 0px;
 	width: 300px;
-	text-align: right;
+	
 }
-.rightbox{
+.rightBox{
     position: absolute;
     right: 0px;
     width: 300px;
-	text-align: right;
+
 }
 h1{
 		text-align: center;
 		color: red;
     	
+		}
+		h3{
+
 		}
 #Child{
 	color:blue;
